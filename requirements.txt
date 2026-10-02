@@ -1,0 +1,11 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+faster-whisper
+chromadb
+langchain
+langchain-community
+sentence-transformers
+pypdf
+playwright
+schedule

@@ -1,0 +1,17 @@
+# Ignore massive raw PDF folder (10.7 GB is too large for GitHub)
+pdfs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Large audio temp files
+temp*.wav
+*.mp3
+
+# Ignore HF models if any
+*.gguf
