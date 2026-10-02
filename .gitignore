@@ -15,3 +15,6 @@ temp*.wav
 
 # Ignore HF models if any
 *.gguf
+
+# Piper TTS precompiled binaries and models (auto-downloaded on first run)
+piper_tts/
