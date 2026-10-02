@@ -1,0 +1,994 @@
+IQARENA
+ADMIN PORTAL
+Dashboard
+Departments
+Faculty & Staff
+Students
+Question Bank
+Tests Management
+Reports & Analytics
+Create Selective Test
+Selective Reports
+Logout
+Syllabus Topics & Questions
+
+Review active syllabus modules, subtopics, and underlying questions.
+
+TOPIC MODULE
+C++
+
+Added by: Dr.MATHALAI RAJ. J
+Created: 31/01/2026
+TOPIC MODULE
+Cloud
+
+Added by: PAVITHRA M
+Created: 02/02/2026
+TOPIC MODULE
+Python
+
+Added by: PAVITHRA M
+Created: 02/02/2026
+TOPIC MODULE
+C Programming
+
+Added by: JASMINE JOSE P
+Created: 03/02/2026
+TOPIC MODULE
+Electron Devices
+
+Added by: GOWTHAMI P
+Created: 03/02/2026
+TOPIC MODULE
+sample
+
+Added by: GOWTHAMI P
+Created: 03/02/2026
+TOPIC MODULE
+PYTHON TEST
+
+Added by: ARCHANA R
+Created: 03/02/2026
+TOPIC MODULE
+MECHANICAL ENGINEERING
+
+Added by: ARUN KUMAR.G
+Created: 03/02/2026
+TOPIC MODULE
+english
+
+Added by: MUFEENA S
+Created: 03/02/2026
+TOPIC MODULE
+Python 360
+
+Added by: NAGAJOTHI P
+Created: 03/02/2026
+TOPIC MODULE
+iii
+
+Added by: System
+Created: 03/02/2026
+TOPIC MODULE
+python fourier
+
+Added by: PRATHAP. C
+Created: 03/02/2026
+TOPIC MODULE
+cloud computing
+
+Added by: BHAVANI M
+Created: 03/02/2026
+TOPIC MODULE
+C++ cse
+
+Added by: VENKATALAKSHMI M
+Created: 03/02/2026
+TOPIC MODULE
+current & voltage
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 04/02/2026
+TOPIC MODULE
+DC Fundamentals
+
+Added by: ABIRAMI N
+Created: 05/02/2026
+TOPIC MODULE
+DC fundamental
+
+Added by: CHITRA R
+Created: 05/02/2026
+TOPIC MODULE
+Cloud Basics
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 06/02/2026
+TOPIC MODULE
+C TEST
+
+Added by: Dr.MATHALAI RAJ. J
+Created: 07/02/2026
+TOPIC MODULE
+Signals and Systems
+
+Added by: GOWTHAMI P
+Created: 09/02/2026
+TOPIC MODULE
+PYTHON 1 year
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 09/02/2026
+TOPIC MODULE
+DSA
+
+Dear Students, Today you will have the **IQARENA MCQ assessment** for your internal assignment. There will be **no updates or extra boost-up** for this test, so prepare sincerely. A total of **40 questions** will be asked. Please take this assessment seriously and study well. time-8.00 to 9.00p.m
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 16/02/2026
+TOPIC MODULE
+ML
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 16/02/2026
+TOPIC MODULE
+Communication Systems
+
+Added by: GOWTHAMI P
+Created: 17/02/2026
+TOPIC MODULE
+Electrical Machines
+
+Added by: CHITRA R
+Created: 19/02/2026
+TOPIC MODULE
+Concrete Technology
+
+To study the properties of concrete making materials. To have better knowledge about the chemical and mineral admixtures in concrete. To familiarize with the IS method of mix design as per the latest code . To understand the fresh and hardened properties of concrete. To know the importance and applications of special concretes
+
+Added by: MANOJ PRABAKAR R
+Created: 20/02/2026
+TOPIC MODULE
+Engineering Geogolgy
+
+This course will familiarize the students on the role and importance of geology in civil engineering, apart from learning the techniques of surface and subsurface investigations using geological, geophysical and geomechanical methods. +
+
+Added by: MANOJ PRABAKAR R
+Created: 20/02/2026
+TOPIC MODULE
+DS & C++
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 21/02/2026
+TOPIC MODULE
+C-programming
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 21/02/2026
+TOPIC MODULE
+placement 01
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 23/02/2026
+TOPIC MODULE
+LIC
+
+Added by: GOWTHAMI P
+Created: 25/02/2026
+TOPIC MODULE
+Digital Electronics
+
+Added by: CHITRA R
+Created: 26/02/2026
+TOPIC MODULE
+BEEE
+
+Added by: MUFEENA S
+Created: 27/02/2026
+TOPIC MODULE
+TIA
+
+Added by: MUFEENA S
+Created: 27/02/2026
+TOPIC MODULE
+DSC++
+
+Added by: MUFEENA S
+Created: 27/02/2026
+TOPIC MODULE
+Highway and Railway Engineering
+
+Highway Engineering and Design of Highway Elements
+
+Added by: MANOJ PRABAKAR R
+Created: 01/03/2026
+TOPIC MODULE
+Structural Analysis II
+
+INFLUENCE LINES FOR DETERMINATE STRUCTURES and INFLUENCE LINES FOR INDETERMINATE BEAMS
+
+Added by: MANOJ PRABAKAR R
+Created: 01/03/2026
+TOPIC MODULE
+C++ friend fn
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 03/03/2026
+TOPIC MODULE
+C++ TEST
+
+C++
+
+Added by: NAGAJOTHI P
+Created: 03/03/2026
+TOPIC MODULE
+Digital Electronics 1
+
+Added by: RAJA KARTHICK R
+Created: 06/03/2026
+TOPIC MODULE
+power electronics
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 06/03/2026
+TOPIC MODULE
+power electronics 1
+
+Added by: VIJAYALAKSHMI M
+Created: 06/03/2026
+TOPIC MODULE
+DS&C++
+
+Added by: ANUSUYA V
+Created: 07/03/2026
+TOPIC MODULE
+Aptitude Test
+
+Added by: VELKUMAR K
+Created: 08/03/2026
+TOPIC MODULE
+CSM
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 09/03/2026
+TOPIC MODULE
+Quant
+
+Added by: Ram kumar K
+Created: 09/03/2026
+TOPIC MODULE
+C Programming - operators
+
+Added by: MAHALAKSHMI S
+Created: 10/03/2026
+TOPIC MODULE
+Blood relation
+
+Added by: CHITRA R
+Created: 10/03/2026
+TOPIC MODULE
+Seating arrangement
+
+Added by: CHITRA R
+Created: 10/03/2026
+TOPIC MODULE
+Aptitude
+
+Added by: MANOJ PRABAKAR R
+Created: 10/03/2026
+TOPIC MODULE
+placement first year
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 10/03/2026
+TOPIC MODULE
+placement second year
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 10/03/2026
+TOPIC MODULE
+placement 3rd year
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 10/03/2026
+TOPIC MODULE
+Activity
+
+Added by: MUFEENA S
+Created: 10/03/2026
+TOPIC MODULE
+Placement Aptitude
+
+Added by: NAGAJOTHI P
+Created: 10/03/2026
+TOPIC MODULE
+Placement test
+
+Added by: JASMINE JOSE P
+Created: 10/03/2026
+TOPIC MODULE
+quan
+
+Added by: VELKUMAR K
+Created: 11/03/2026
+TOPIC MODULE
+Simplification
+
+Added by: MEGHA
+Created: 11/03/2026
+TOPIC MODULE
+Average
+
+Added by: MEGHA
+Created: 11/03/2026
+TOPIC MODULE
+Time speed distance
+
+Added by: MEGHA
+Created: 11/03/2026
+TOPIC MODULE
+Subject Verb Agreement
+
+Added by: MEGHA
+Created: 12/03/2026
+TOPIC MODULE
+Jumbled Sentences
+
+Added by: MEGHA
+Created: 12/03/2026
+TOPIC MODULE
+Connectives
+
+Added by: MEGHA
+Created: 12/03/2026
+TOPIC MODULE
+Electronic Devices
+
+Added by: CHITRA R
+Created: 12/03/2026
+TOPIC MODULE
+Calendars
+
+Added by: MEGHA
+Created: 13/03/2026
+TOPIC MODULE
+Coding and Decoding
+
+Added by: MEGHA
+Created: 13/03/2026
+TOPIC MODULE
+Direction Sense
+
+Added by: MEGHA
+Created: 13/03/2026
+TOPIC MODULE
+CAN
+
+Added by: MUFEENA S
+Created: 14/03/2026
+TOPIC MODULE
+Python coding
+
+Added by: MUFEENA S
+Created: 14/03/2026
+TOPIC MODULE
+Number System
+
+Added by: MEGHA
+Created: 14/03/2026
+TOPIC MODULE
+Percentage
+
+Added by: MEGHA
+Created: 14/03/2026
+TOPIC MODULE
+Profit & Loss
+
+Added by: MEGHA
+Created: 14/03/2026
+TOPIC MODULE
+Tenses (Basic Forms)
+
+Added by: MEGHA
+Created: 16/03/2026
+TOPIC MODULE
+Direct & Indirect Speech
+
+Added by: MEGHA
+Created: 16/03/2026
+TOPIC MODULE
+Verbal Analogy
+
+Added by: MEGHA
+Created: 16/03/2026
+TOPIC MODULE
+Analogy
+
+Added by: MEGHA
+Created: 17/03/2026
+TOPIC MODULE
+Series
+
+Added by: MEGHA
+Created: 17/03/2026
+TOPIC MODULE
+Puzzles
+
+Added by: MEGHA
+Created: 17/03/2026
+TOPIC MODULE
+Digital Marketing
+
+Added by: NAGAJOTHI P
+Created: 17/03/2026
+TOPIC MODULE
+Operating system
+
+Added by: NAGAJOTHI P
+Created: 17/03/2026
+TOPIC MODULE
+pointers
+
+Added by: MAHALAKSHMI S
+Created: 18/03/2026
+TOPIC MODULE
+ISPIN TEST
+
+Added by: VIGNESH.L.S
+Created: 18/03/2026
+TOPIC MODULE
+HCF & LCM
+
+Added by: MEGHA
+Created: 18/03/2026
+TOPIC MODULE
+Ratio & Proportion
+
+Added by: MEGHA
+Created: 18/03/2026
+TOPIC MODULE
+Time & Work
+
+Added by: MEGHA
+Created: 18/03/2026
+TOPIC MODULE
+Synonyms and Antonyms
+
+Added by: MEGHA
+Created: 19/03/2026
+TOPIC MODULE
+Voices
+
+Added by: MEGHA
+Created: 19/03/2026
+TOPIC MODULE
+Simple, Compound and Complex Sentences
+
+Added by: MEGHA
+Created: 19/03/2026
+TOPIC MODULE
+Odd One Out
+
+Added by: MEGHA
+Created: 20/03/2026
+TOPIC MODULE
+Logical Sequence
+
+Added by: MEGHA
+Created: 20/03/2026
+TOPIC MODULE
+Circular Arrangement
+
+Added by: MEGHA
+Created: 20/03/2026
+TOPIC MODULE
+Simplification (Advanced)
+
+Added by: MEGHA
+Created: 21/03/2026
+TOPIC MODULE
+Simple Interest
+
+Added by: MEGHA
+Created: 21/03/2026
+TOPIC MODULE
+Compound Interest
+
+Added by: MEGHA
+Created: 21/03/2026
+TOPIC MODULE
+Preposition
+
+Added by: MEGHA
+Created: 23/03/2026
+TOPIC MODULE
+Para Jumbles
+
+Added by: MEGHA
+Created: 23/03/2026
+TOPIC MODULE
+Tenses(Hard)
+
+Added by: MEGHA
+Created: 23/03/2026
+TOPIC MODULE
+Alphabet Series
+
+Added by: MEGHA
+Created: 24/03/2026
+TOPIC MODULE
+Statement & Conclusion
+
+Added by: MEGHA
+Created: 24/03/2026
+TOPIC MODULE
+Input & Output
+
+Added by: MEGHA
+Created: 24/03/2026
+TOPIC MODULE
+Averages
+
+Added by: MEGHA
+Created: 25/03/2026
+TOPIC MODULE
+Mixture & Allegation
+
+Added by: MEGHA
+Created: 25/03/2026
+TOPIC MODULE
+Pipes & Cisterns
+
+Added by: MEGHA
+Created: 25/03/2026
+TOPIC MODULE
+union in c language
+
+Added by: MAHALAKSHMI S
+Created: 26/03/2026
+TOPIC MODULE
+Conjucation
+
+Added by: MEGHA
+Created: 26/03/2026
+TOPIC MODULE
+Cloze Test
+
+Added by: MEGHA
+Created: 26/03/2026
+TOPIC MODULE
+Error Spotting
+
+Added by: MEGHA
+Created: 26/03/2026
+TOPIC MODULE
+Ranking System
+
+Added by: MEGHA
+Created: 27/03/2026
+TOPIC MODULE
+Syllogism
+
+Added by: MEGHA
+Created: 27/03/2026
+TOPIC MODULE
+Analytical Puzzle
+
+Added by: MEGHA
+Created: 27/03/2026
+TOPIC MODULE
+Percentages
+
+Added by: MEGHA
+Created: 28/03/2026
+TOPIC MODULE
+Time Speed and Distance
+
+Added by: MEGHA
+Created: 28/03/2026
+TOPIC MODULE
+Probablity
+
+Added by: MEGHA
+Created: 28/03/2026
+TOPIC MODULE
+Spotting Errors( Easy)
+
+Added by: MEGHA
+Created: 30/03/2026
+TOPIC MODULE
+Tenses(Medium)
+
+Added by: MEGHA
+Created: 30/03/2026
+TOPIC MODULE
+Cloze Test ( Hard)
+
+Added by: MEGHA
+Created: 30/03/2026
+TOPIC MODULE
+Coding Basics
+
+Added by: MEGHA
+Created: 31/03/2026
+TOPIC MODULE
+Data Sufficiency
+
+Added by: MEGHA
+Created: 31/03/2026
+TOPIC MODULE
+Puzzle Test
+
+Added by: MEGHA
+Created: 31/03/2026
+TOPIC MODULE
+Quants
+
+Added by: MEGHA
+Created: 01/04/2026
+TOPIC MODULE
+Profit & Loss Medium
+
+Added by: MEGHA
+Created: 01/04/2026
+TOPIC MODULE
+Ratio - advanced
+
+Added by: MEGHA
+Created: 01/04/2026
+TOPIC MODULE
+Noun
+
+Added by: MEGHA
+Created: 02/04/2026
+TOPIC MODULE
+Reading Comprehension
+
+Added by: MEGHA
+Created: 02/04/2026
+TOPIC MODULE
+Error Spotting-1
+
+Added by: MEGHA
+Created: 02/04/2026
+TOPIC MODULE
+Noun 1
+
+Added by: MEGHA
+Created: 06/04/2026
+TOPIC MODULE
+Para Completion
+
+Added by: MEGHA
+Created: 06/04/2026
+TOPIC MODULE
+One Word
+
+Added by: MEGHA
+Created: 06/04/2026
+TOPIC MODULE
+Adjectives
+
+Added by: MEGHA
+Created: 07/04/2026
+TOPIC MODULE
+Cloze
+
+Added by: MEGHA
+Created: 07/04/2026
+TOPIC MODULE
+Sentence Completion
+
+Added by: MEGHA
+Created: 07/04/2026
+TOPIC MODULE
+Dynamic Memory ALLOCATION
+
+Added by: MAHALAKSHMI S
+Created: 07/04/2026
+TOPIC MODULE
+FUNCTION
+
+Added by: MAHALAKSHMI S
+Created: 07/04/2026
+TOPIC MODULE
+looping
+
+Added by: MAHALAKSHMI S
+Created: 07/04/2026
+TOPIC MODULE
+general topic in c lang
+
+Added by: MAHALAKSHMI S
+Created: 07/04/2026
+TOPIC MODULE
+decision making and control statements
+
+Added by: MAHALAKSHMI S
+Created: 07/04/2026
+TOPIC MODULE
+memory management
+
+Added by: MAHALAKSHMI S
+Created: 07/04/2026
+TOPIC MODULE
+Word Formation
+
+Added by: MEGHA
+Created: 08/04/2026
+TOPIC MODULE
+Vocabulary Improvement
+
+Added by: MEGHA
+Created: 08/04/2026
+TOPIC MODULE
+Idiom & Phrases
+
+Added by: MEGHA
+Created: 08/04/2026
+TOPIC MODULE
+Word Formation 1
+
+Added by: MEGHA
+Created: 09/04/2026
+TOPIC MODULE
+Vocabulary Improvement 1
+
+Added by: MEGHA
+Created: 09/04/2026
+TOPIC MODULE
+Idiom & Phrases 1
+
+Added by: MEGHA
+Created: 09/04/2026
+TOPIC MODULE
+Articles Advanced
+
+Added by: MEGHA
+Created: 10/04/2026
+TOPIC MODULE
+Reading Comprehension 1
+
+Added by: MEGHA
+Created: 10/04/2026
+TOPIC MODULE
+Contextual Vocabulary
+
+Added by: MEGHA
+Created: 10/04/2026
+TOPIC MODULE
+Articles Advanced 1
+
+Added by: MEGHA
+Created: 11/04/2026
+TOPIC MODULE
+Reading Comprehension 2
+
+Added by: MEGHA
+Created: 11/04/2026
+TOPIC MODULE
+Contextual Vocabulary 1
+
+Added by: MEGHA
+Created: 11/04/2026
+TOPIC MODULE
+Number System 1
+
+Added by: MEGHA
+Created: 16/04/2026
+TOPIC MODULE
+LCM
+
+Added by: MEGHA
+Created: 16/04/2026
+TOPIC MODULE
+Quadratic Equation
+
+Added by: MEGHA
+Created: 16/04/2026
+TOPIC MODULE
+Number System 2
+
+Added by: MEGHA
+Created: 17/04/2026
+TOPIC MODULE
+Ratio
+
+Added by: MEGHA
+Created: 17/04/2026
+TOPIC MODULE
+Probablity 1
+
+Added by: MEGHA
+Created: 17/04/2026
+TOPIC MODULE
+summa
+
+Added by: NAGAJOTHI P
+Created: 09/07/2026
+TOPIC MODULE
+Placement
+
+Added by: VELKUMAR K
+Created: 14/07/2026
+TOPIC MODULE
+python-2n
+
+Added by: RATHIMALA T
+Created: 17/07/2026
+TOPIC MODULE
+APP Dev-Assignment 1
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 25/07/2026
+TOPIC MODULE
+Basic Aptitude & Technicals
+
+Added by: Dr. A. VENNIMALAI RAJAN
+Created: 27/07/2026
+TOPIC MODULE
+27/07/2026
+
+Added by: Dr. A. VENNIMALAI RAJAN
+Created: 27/07/2026
+TOPIC MODULE
+Aptitude & Technical
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 27/07/2026
+TOPIC MODULE
+Placement Daily Tests
+
+Added by: GOWTHAMI P
+Created: 27/07/2026
+TOPIC MODULE
+placement training
+
+Added by: GAYATHRI S
+Created: 27/07/2026
+TOPIC MODULE
+Aptitude & Technical 2
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 28/07/2026
+TOPIC MODULE
+Aptitude & Technical Day 3
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 29/07/2026
+TOPIC MODULE
+Aptitude & Technical Day 4
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 31/07/2026
+TOPIC MODULE
+August 2026
+
+Added by: Dr. A. VENNIMALAI RAJAN
+Created: 01/08/2026
+TOPIC MODULE
+UNIT 1 DATA STRUCTURES
+
+Added by: UDHAYA KUMAR.R
+Created: 03/08/2026
+TOPIC MODULE
+placement final year
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 03/08/2026
+TOPIC MODULE
+IT in AS Unit 1 ,2
+
+Added by: ABIRAMI KAYATHIRI S
+Created: 03/08/2026
+TOPIC MODULE
+Aptitude & Technical 03.08.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 03/08/2026
+TOPIC MODULE
+Aptitude and technical 04.8.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 04/08/2026
+TOPIC MODULE
+Aptitude & Technical 05.08.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 05/08/2026
+TOPIC MODULE
+Aptitude & Technical 07.08.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 07/08/2026
+TOPIC MODULE
+Aptitude & Technical 08.08.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 08/08/2026
+TOPIC MODULE
+UNIT 2 STACK AND QUEUE
+
+Added by: UDHAYA KUMAR.R
+Created: 08/08/2026
+TOPIC MODULE
+Day 10
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 10/08/2026
+TOPIC MODULE
+Aptitude & Technical 11.08.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 11/08/2026
+TOPIC MODULE
+Aptitude & Technical 12.08.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 12/08/2026
+TOPIC MODULE
+Aptitude & Technical 13.08.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 13/08/2026
+TOPIC MODULE
+Aptitude & Technical 14.08.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 14/08/2026
+TOPIC MODULE
+DAY 17.08.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 17/08/2026
+TOPIC MODULE
+tst
+
+Added by: VELKUMAR K
+Created: 18/08/2026
+TOPIC MODULE
+Aptitude & Technical 21.08.26
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 21/08/2026
+TOPIC MODULE
+Aptitude & Technical day 24
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 24/08/2026
+TOPIC MODULE
+Aptitude & Technical Day 25
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 25/08/2026
+TOPIC MODULE
+Aptitude & Technical Day 27
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 27/08/2026
+TOPIC MODULE
+Aptitude & Technical day 28
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 27/08/2026
+TOPIC MODULE
+September 2026
+
+Added by: Dr. A. VENNIMALAI RAJAN
+Created: 01/09/2026
+TOPIC MODULE
+Aptitude & Technical 1
+
+Added by: NISHETHA JEFLIN NIXON A
+Created: 01/09/2026
+TOPIC MODULE
+WG Tech Prelims
+
+Added by: GOWTHAMI P
+Created: 11/09/2026
+TOPIC MODULE
+LS_Mills_Assessments
+
+Added by: VELKUMAR K
+Created: 21/09/2026
+Developed By Innovative Software Product Industry of NSCET

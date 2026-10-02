@@ -1,0 +1,39 @@
+IQARENA
+ADMIN PORTAL
+Dashboard
+Departments
+Faculty & Staff
+Students
+Question Bank
+Tests Management
+Reports & Analytics
+Create Selective Test
+Selective Reports
+Logout
+Departments Directory
+
+Manage institutional departments and HOD staff profiles.
+
+Add Department
+Total Registered Faculty: 88
+|
+Total Enrolled Students: 860
+CODE	NAME	HEAD OF DEPARTMENT	FACULTY MEMBERS	STUDENTS ENROLLED	ACTIONS
+CSE	B.E. Computer Science & Engineering	Dr.MATHALAI RAJ. J	9	167	
+
+CIVIL	B.E. Civil Engineering	None Assigned	13	77	
+
+ECE	B.E. Electronics & Communication Engineering	DR. T. VENISH KUMAR	12	153	
+
+EEE	B.E. Electrical and Electronics Engineering	Dr.R.ATHILINGAM	10	118	
+
+MECH	B.E. Mechanical Engineering	DR.B.RADHAKRISHNAN	11	83	
+
+AI&DS	B.Tech. Artificial Intelligence & Data Science	VIGNESH.L.S	5	132	
+
+IT	B.Tech. Information Technology	PRATHAP. C	7	130	
+
+S&H	Science and Humanities	VEMBATHURAJESH.A	19	0	
+
+TPO	PLACEMENT	Ram kumar K	2	0	
+Developed By Innovative Software Product Industry of NSCET

@@ -1,0 +1,113 @@
+IQARENA
+ADMIN PORTAL
+Dashboard
+Departments
+Faculty & Staff
+Students
+Question Bank
+Tests Management
+Reports & Analytics
+Create Selective Test
+Selective Reports
+Logout
+Selective Test Reports
+ISPIN
+
+Purpose: ISPIN
+
+Faculty: ISPIN
+
+Created: 10/07/2026
+
+82
+ASSIGNED
+69
+SUBMITTED
+Download Report
+Student Name	Department	Year	Score
+NIROSHKUMAR R	B.Tech. Information Technology	Year 2	95.08
+KANIPRIYA S	B.E. Computer Science & Engineering	Year 2	90.16
+SUGAPPRIYAN S	B.E. Computer Science & Engineering	Year 2	80.33
+AISHWARYA LAKSHMI S	B.Tech. Information Technology	Year 2	77.05
+MUTHAIYA MURALITHARAN M	B.E. Computer Science & Engineering	Year 2	73.77
+ABIRAMI R	B.Tech. Information Technology	Year 2	73.77
+POOVARASAN L	B.E. Computer Science & Engineering	Year 2	73.77
+DINESHKUMAR S	B.E. Electrical and Electronics Engineering	Year 2	72.13
+SHARVESWARAN S P	B.Tech. Information Technology	Year 3	70.49
+SHYAM RAJ Y	B.E. Computer Science & Engineering	Year 2	68.85
+AKSHAYA S	B.Tech. Information Technology	Year 2	67.21
+JENELIA S	B.E. Electronics & Communication Engineering	Year 2	67.21
+AYISHA ASMEE R	B.Tech. Artificial Intelligence & Data Science	Year 3	67.21
+MANJULA S	B.Tech. Information Technology	Year 3	65.57
+PAVITHRA R	B.Tech. Information Technology	Year 2	63.93
+PRIYADHARSHINI P	B.E. Computer Science & Engineering	Year 1	63.93
+PRATHIBHA SHIVARANJANI P	B.Tech. Information Technology	Year 2	62.30
+JEYSREE S	B.Tech. Information Technology	Year 2	59.02
+AKSHARA M	B.Tech. Information Technology	Year 3	59.02
+MUTHU VETHA VARSHINI M	B.Tech. Information Technology	Year 2	59.02
+NITHARSANA M	B.E. Computer Science & Engineering	Year 2	57.38
+KIRUTHIKA S	B.Tech. Information Technology	Year 2	55.74
+RAJASRI M	B.Tech. Artificial Intelligence & Data Science	Year 2	55.74
+VISHALINI V	B.Tech. Information Technology	Year 3	55.74
+THIRUNIKA V S	B.Tech. Artificial Intelligence & Data Science	Year 3	54.10
+SABITHA G	B.E. Computer Science & Engineering	Year 2	54.10
+UDHAYAPRAKASH S	B.E. Computer Science & Engineering	Year 2	52.46
+JEEVITHA SRI K	B.E. Computer Science & Engineering	Year 2	52.46
+HARINI M	B.E. Computer Science & Engineering	Year 2	52.46
+SELVAKUMAR V	B.E. Computer Science & Engineering	Year 2	50.82
+SHALINI V	B.E. Computer Science & Engineering	Year 3	50.82
+DIVYASHREE P	B.Tech. Artificial Intelligence & Data Science	Year 2	50.82
+KISHO VARMA K	B.E. Computer Science & Engineering	Year 2	50.82
+LATHIKA KAMATCHI K	B.E. Computer Science & Engineering	Year 2	50.82
+NAFILAFATHIMA R	B.Tech. Information Technology	Year 2	49.18
+AHAMED ATHIEF KHAN M V	B.Tech. Artificial Intelligence & Data Science	Year 2	47.54
+MAHALAKSHMI R	B.Tech. Information Technology	Year 2	47.54
+JESLIN SHARON J	B.E. Computer Science & Engineering	Year 2	45.90
+MARIMUTHU J	B.E. Computer Science & Engineering	Year 2	45.90
+VEERUJOTHI P	B.Tech. Information Technology	Year 2	45.90
+MANISHVARMA S	B.Tech. Information Technology	Year 3	45.90
+ANITHA S	B.Tech. Information Technology	Year 3	44.26
+RISHIKESH K	B.Tech. Information Technology	Year 4	42.62
+DHARSHINI SARO SHREE S U	B.Tech. Artificial Intelligence & Data Science	Year 2	42.62
+NIVETHA S	B.E. Computer Science & Engineering	Year 2	42.62
+ABARNA K	B.Tech. Artificial Intelligence & Data Science	Year 3	40.98
+NAVTHEEB A	B.E. Electronics & Communication Engineering	Year 1	40.98
+SWATHY G	B.E. Electronics & Communication Engineering	Year 2	40.98
+DURGADEVI V	B.E. Computer Science & Engineering	Year 2	39.34
+HARIDHARSHINI R	B.E. Computer Science & Engineering	Year 2	39.34
+KEERTHANA S	B.Tech. Information Technology	Year 3	39.34
+GAYATHRI K	B.E. Computer Science & Engineering	Year 2	39.34
+DIVYASRI S	B.Tech. Information Technology	Year 2	37.70
+RESHMA S	B.Tech. Information Technology	Year 3	37.70
+SIVA PRADEEP M	B.Tech. Information Technology	Year 3	37.70
+PRAVEENA K	B.E. Electronics & Communication Engineering	Year 2	37.70
+JEYAHARINISHREE R	B.E. Electronics & Communication Engineering	Year 3	37.70
+ANEESHA S	B.Tech. Artificial Intelligence & Data Science	Year 3	37.70
+AISHWARYA S	B.Tech. Information Technology	Year 3	37.70
+THRISHA B	B.E. Electronics & Communication Engineering	Year 2	36.07
+ROOBA SREE N	B.E. Computer Science & Engineering	Year 2	36.07
+NIKIL R	B.E. Computer Science & Engineering	Year 2	34.43
+DHARSHINI PRIYA V	B.E. Electronics & Communication Engineering	Year 2	34.43
+JANANI SRI T	B.E. Electronics & Communication Engineering	Year 2	31.15
+SATHYABAMA G	B.Tech. Information Technology	Year 3	31.15
+HARIPRIYA M	B.Tech. Artificial Intelligence & Data Science	Year 3	27.87
+JEYASIVA S	B.Tech. Information Technology	Year 3	19.67
+DHINESHKUMAR V	B.Tech. Information Technology	Year 3	16.39
+SHOBA M	B.Tech. Information Technology	Year 2	4.92
+ISPIN
+
+Purpose: ISPIN
+
+Faculty: ISPIN
+
+Created: 10/07/2026
+
+2
+ASSIGNED
+2
+SUBMITTED
+Download Report
+Student Name	Department	Year	Score
+RISHIKESH K	B.Tech. Information Technology	Year 4	8.33
+LOGESH KUMAR R	B.Tech. Artificial Intelligence & Data Science	Year 4	5.00
+Developed By Innovative Software Product Industry of NSCET

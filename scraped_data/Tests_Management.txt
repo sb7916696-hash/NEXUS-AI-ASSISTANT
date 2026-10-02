@@ -1,0 +1,3924 @@
+IQARENA
+ADMIN PORTAL
+Dashboard
+Departments
+Faculty & Staff
+Students
+Question Bank
+Tests Management
+Reports & Analytics
+Create Selective Test
+Selective Reports
+Logout
+Tests Scheduler & Monitoring
+
+Configure parameters, schedule active session launches, and review rosters.
+
+Create Test
+All Tests
+Currently Live
+Upcoming
+Completed
+All Departments
+B.E. Computer Science & Engineering
+B.E. Civil Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electrical and Electronics Engineering
+B.E. Mechanical Engineering
+B.Tech. Artificial Intelligence & Data Science
+B.Tech. Information Technology
+Science and Humanities
+PLACEMENT
+TEST TITLE	ASSIGNED DEPARTMENT	SCHEDULED DATE & TIME	DURATION	STATUS	ACTIONS
+Try	CSE	25/09/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test	CSE	25/09/2026, 05:30:00	20 minutes	Active Now	
+Stop
+Remove
+
+Test	IT	21/09/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Test	AI&DS	21/09/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Test	CSE	21/09/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Test	IT	18/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test	AI&DS	18/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test	CSE	18/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+wgtech2	ECE	12/09/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+wgtech1	ECE	12/09/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Civil Core technical Quiz- Mock Interview 12.09.2026	CIVIL	12/09/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Two marks	ECE	12/09/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+One marks	ECE	12/09/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+SQL_sep11	CSE	11/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+SQL11	IT	11/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+SQL	IT	11/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+SQL	AI&DS	11/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+SQL	CSE	11/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+test	CSE	10/09/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+test	CSE	10/09/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test-22-03/09/26	ECE	03/09/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 27	MECH	03/09/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Day23	IT	07/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day23	AI&DS	07/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day23	CSE	07/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test 26	MECH	02/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+General & Core technical 02.09.2026	CIVIL	02/09/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Civil - Internal Mock Interview 02.09.2026	CIVIL	02/09/2026, 05:30:00	35 minutes	Completed	
+Start
+Remove
+
+Day21	IT	02/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day21	AI&DS	02/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day21	CSE	02/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Aptitude	EEE	02/09/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Test 25	MECH	01/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test-21-01/09/26	ECE	01/09/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Day20	IT	01/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day20	AI&DS	01/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day20	CSE	01/09/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test 24	MECH	31/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+General & Core technical 01.09.2026	CIVIL	01/09/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General & technical	CIVIL	31/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day19	IT	31/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day19	AI&DS	31/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day19	CSE	31/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test-20-31/08/26	ECE	31/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 23	MECH	28/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test-19-28/08/26	ECE	28/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Day18	IT	30/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day18	AI&DS	30/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day18	CSE	29/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+General & technical 28.08.2026	CIVIL	28/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General & technical 27.08.2026	CIVIL	28/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General & Technical 25.08.2026	CIVIL	28/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 22	MECH	27/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+day17	AI&DS	27/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+day17	IT	27/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+day17	CSE	27/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test-18-27/08/26	ECE	27/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+APTITUDE	EEE	31/08/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Aptitude and Logical	EEE	28/08/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Aptitude	EEE	25/08/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Test 21	MECH	25/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test -17-25/08/26	ECE	25/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 20	MECH	24/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day16	IT	25/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day16	AI&DS	25/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day16	CSE	25/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Aptitude	EEE	24/08/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Test-16-24.08.26	ECE	24/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Day15	IT	23/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day15	AI&DS	23/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day15	CSE	23/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Aptitude and Logical	EEE	21/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 19	MECH	18/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test-15-19/08/26	ECE	19/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Day12	IT	18/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day12	AI&DS	18/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day12	CSE	18/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test-14-18.08.26	ECE	18/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Aptitude	EEE	17/08/2026, 05:30:00	180 minutes	Completed	
+Start
+Remove
+
+Test 18	MECH	17/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test-13-17.08.26	ECE	17/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Day11	IT	17/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day11	AI&DS	17/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day11	CSE	17/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+General and Technical 24.08.2026	CIVIL	24/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General and Technical 18.08.2026	CIVIL	18/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General and Technical 17.08.2026	CIVIL	17/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Aptitude and Logical	EEE	14/08/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+General & Technical 14.08.2026	CIVIL	14/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 17	MECH	14/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day10	IT	15/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day10	AI&DS	15/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day10	CSE	15/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Aptitude, Logical	EEE	13/08/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+Test 16	MECH	13/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test-14-14/08/26	ECE	14/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Day9	IT	13/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day9	AI&DS	13/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day9	CSE	13/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test-11-13/06/26	ECE	13/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 15	MECH	12/08/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Aptitude & Technical	EEE	12/08/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+Test-10-12/08/26	ECE	12/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Day8	IT	12/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day8	AI&DS	12/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Day8	CSE	12/08/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Technical	EEE	11/08/2026, 05:30:00	120 minutes	Active Now	
+Stop
+Remove
+
+Test-9- 11/08/26	ECE	11/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+General and technical 13.08.2026	CIVIL	13/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General and technical 12.08.2026	CIVIL	12/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day7	IT	11/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day7	AI&DS	11/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day7	CSE	11/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 14	MECH	11/08/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+General and technical 11.08.2026	CIVIL	11/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day6	IT	10/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day6	AI&DS	10/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day6	CSE	10/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test-8-10/08/26	ECE	10/08/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+General & Technical 10.08.2026	CIVIL	10/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Aptitude and Logical	EEE	10/08/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+Test 13	MECH	10/08/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+UNIT 2 QUIZ 1	IT	08/08/2026, 05:30:00	40 minutes	Active Now	
+Stop
+Remove
+
+Test 12	MECH	08/08/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Test- 7 - 08/08/26	ECE	13/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+APTITUDE AND TECHNICAL	EEE	08/08/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+General & Technical 08.08.2026	CIVIL	08/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day5	AI&DS	08/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day5	IT	08/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day5	CSE	08/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Aptitude and Logical	EEE	07/08/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+Test 11	MECH	07/08/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Day4	IT	07/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day4	AI&DS	07/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Day4	CSE	07/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General & Technical 07.08.2026	CIVIL	07/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 10	MECH	06/08/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Quiz 1	IT	13/08/2026, 05:30:00	40 minutes	Active Now	
+Stop
+Remove
+
+Test-6-07/08/26	ECE	07/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test-5-06/08/26	ECE	06/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Aps & Technical	IT	06/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Aps & Technical	AI&DS	06/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Aps & Technical	CSE	06/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Genernal and technical 06.08.2026	CIVIL	06/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 9	MECH	05/08/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+aptitude	EEE	05/08/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+Test -4- 05/08/26	ECE	05/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General & Technical 05.08.2026	CIVIL	05/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+technical	EEE	04/08/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+Test 8	MECH	04/08/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Placement Daily Tests	ECE	04/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General & Technical Test 04.08.2026	CIVIL	04/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Aptitude	EEE	03/08/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+Assignment	CSE	05/08/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+General & Core test 03.08.2026	CIVIL	03/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 7	MECH	03/08/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+General & Core Test 01.08.2026	CIVIL	01/08/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 6	MECH	01/08/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Assignment 1	CSE	05/08/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Logical and Aptitude	EEE	31/07/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+Test 5	MECH	31/07/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+TEST 3	EEE	30/07/2026, 05:30:00	80 minutes	Active Now	
+Stop
+Remove
+
+Test 4	MECH	30/07/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Placement tests	ECE	30/07/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General & Core 31.07.2026	CIVIL	31/07/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General & Core 30.07.2026	CIVIL	30/07/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General & Core Technical	CIVIL	29/07/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 3	MECH	29/07/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Logical & Reasoning 2	EEE	28/07/2026, 05:30:00	78 minutes	Active Now	
+Stop
+Remove
+
+Test 2	MECH	28/07/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+General & Core 28.07.2026	CIVIL	28/07/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+General and Technical	CIVIL	27/07/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 1-27/07/26	ECE	27/07/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Aptitude & Technical	EEE	27/07/2026, 05:30:00	80 minutes	Active Now	
+Stop
+Remove
+
+Test 1	MECH	27/07/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+red	CSE	Not Scheduled	20 minutes	Completed	
+Start
+Remove
+
+wer	CIVIL	15/07/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+sample	IT	11/07/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+python	All	10/07/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+ISPIN	All	Not Scheduled	60 minutes	Active Now	
+Stop
+Remove
+
+ISPIN	All	Not Scheduled	60 minutes	Active Now	
+Stop
+Remove
+
+Test 30 III IT	IT	17/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 30 III AI	AI&DS	17/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 30 III MECH	MECH	17/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 30 III EEE	EEE	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 III ECE	ECE	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 III CIVIL	CIVIL	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 III CSE	CSE	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 II IT	IT	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 II AI	AI&DS	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 II MECH	MECH	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 II EEE	EEE	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 II ECE	ECE	17/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 30 II CIVIL	CIVIL	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 II CSE	CSE	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 I IT	IT	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 I AI	AI&DS	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 I MECH	MECH	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 I EEE	EEE	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 I ECE	ECE	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 I CIVIL	CIVIL	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 30 I CSE	CSE	17/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 III IT	IT	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 III AI	AI&DS	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 III MECH	MECH	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 III EEE	EEE	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 III ECE	ECE	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 III CIVIL	CIVIL	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 III CSE	CSE	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 II IT	AI&DS	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 II AI	AI&DS	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 II MECH	MECH	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 II EEE	EEE	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 II ECE	ECE	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 II CIVIL	CIVIL	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 II CSE	CSE	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 I IT	IT	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 I AI	AI&DS	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 I MECH	MECH	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 I EEE	EEE	16/04/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test 29 I ECE	ECE	16/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 29 I CIVIL	CIVIL	16/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 29 I CSE	CSE	16/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+quiz rev 01	EEE	11/04/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+REVIEW OF GATE REV01	ECE	11/04/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Test 28 III IT	IT	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 III AI	AI&DS	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 III MECH	MECH	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 III EEE	EEE	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 III ECE	ECE	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 III CIVIL	CIVIL	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 III CSE	CSE	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 II IT	IT	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 II AI	AI&DS	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 II MECH	MECH	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 II EEE	EEE	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 II ECE	ECE	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 II CIVIL	CIVIL	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 II CSE	CSE	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 I IT	IT	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 I AI	AI&DS	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 I MECH	MECH	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 I EEE	EEE	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 I ECE	ECE	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 I CIVIL	CIVIL	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 28 I CSE	CSE	11/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 III IT	IT	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 III AI	AI&DS	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 III MECH	MECH	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 III EEE	EEE	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 III ECE	ECE	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 III CIVIL	CIVIL	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 III CSE	CSE	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 II IT	IT	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 II AI	AI&DS	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 II MECH	MECH	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 II EEE	EEE	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 II ECE	ECE	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 II CIVIL	CIVIL	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 II CSE	CSE	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 I IT	IT	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 I AI	AI&DS	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 I MECH	MECH	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 I EEE	EEE	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 I ECE	ECE	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 I CIVIL	CIVIL	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 27 I CSE	CSE	10/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+review of gate	EEE	09/04/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+quiz	EEE	09/04/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Test 26 III IT	IT	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 III AI	AI&DS	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 III MECH	MECH	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 III EEE	EEE	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 III ECE	ECE	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 III CIVIL	CIVIL	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 III CSE	CSE	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 II IT	IT	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 II AI	AI&DS	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 II MECH	MECH	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 II EEE	EEE	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 II ECE	ECE	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 II CIVIL	CIVIL	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 II CSE	CSE	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 I IT	IT	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 I AI	AI&DS	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 I MECH	MECH	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 I EEE	EEE	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 I ECE	ECE	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 I CIVIL	CIVIL	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 26 I CSE	CSE	09/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 III IT	IT	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 III AI	AI&DS	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 III MECH	MECH	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 III EEE	EEE	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 III ECE	ECE	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 III CIVIL	CIVIL	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 III CSE	CSE	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 II IT	IT	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 II AI	AI&DS	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 II MECH	MECH	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 II EEE	EEE	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 II ECE	ECE	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 II CIVIL	CIVIL	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 II CSE	CSE	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 I IT	IT	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 I AI	AI&DS	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 I MECH	MECH	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 I EEE	EEE	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 I ECE	ECE	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 I CIVIL	CIVIL	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 25 I CSE	CSE	08/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+decision making control statements	IT	07/04/2026, 05:30:00	500 minutes	Active Now	
+Stop
+Remove
+
+decision making control statements	IT	07/04/2026, 05:30:00	600 minutes	Active Now	
+Stop
+Remove
+
+looping	IT	07/04/2026, 05:30:00	500 minutes	Active Now	
+Stop
+Remove
+
+looping	IT	07/04/2026, 05:30:00	500 minutes	Active Now	
+Stop
+Remove
+
+Test 24	IT	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	AI&DS	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	MECH	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	EEE	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	ECE	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	CIVIL	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	CSE	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	IT	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	AI&DS	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	MECH	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	EEE	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	ECE	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	CIVIL	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	CSE	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	IT	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	AI&DS	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	MECH	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	EEE	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	ECE	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	CIVIL	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 24	CSE	07/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	IT	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	AI&DS	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	MECH	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	ECE	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	EEE	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	CIVIL	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	CSE	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	IT	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	AI&DS	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	MECH	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	EEE	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	ECE	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	CIVIL	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	CSE	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	IT	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	AI&DS	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	MECH	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	EEE	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	ECE	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	CIVIL	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 23	CSE	06/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	MECH	10/04/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 17	MECH	10/04/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 22	IT	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	MECH	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	AI&DS	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	EEE	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	ECE	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	CIVIL	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	CSE	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	IT	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	AI&DS	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	MECH	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	EEE	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	ECE	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	CIVIL	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	CSE	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	IT	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	AI&DS	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	MECH	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	EEE	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	ECE	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	CIVIL	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 22	CSE	02/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	AI&DS	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	IT	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	MECH	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	EEE	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	ECE	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	CIVIL	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	CSE	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	IT	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	AI&DS	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	MECH	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	EEE	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	ECE	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	CIVIL	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	CSE	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	IT	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	AI&DS	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	MECH	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	EEE	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	ECE	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	CIVIL	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 21	CSE	01/04/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	IT	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	AI&DS	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	MECH	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	EEE	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	ECE	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	CIVIL	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	CSE	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	IT	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	AI&DS	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	MECH	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	EEE	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	ECE	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	CIVIL	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	CSE	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	IT	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	AI&DS	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	MECH	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	EEE	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	ECE	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	CIVIL	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 20	CSE	31/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	IT	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	AI&DS	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	MECH	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	EEE	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	ECE	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	CIVIL	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	CSE	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	IT	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	AI&DS	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	MECH	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	EEE	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	ECE	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	CIVIL	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	CSE	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	IT	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	AI&DS	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	MECH	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	EEE	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	ECE	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	CIVIL	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 19	CSE	30/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	MECH	03/04/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 15	MECH	03/04/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 18	IT	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	AI&DS	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	MECH	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	EEE	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Tes 18	ECE	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	CIVIL	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	CSE	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	IT	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	AI&DS	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	MECH	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	EEE	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	ECE	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	CIVIL	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	CSE	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	IT	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	AI&DS	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	MECH	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	EEE	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	ECE	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	CIVIL	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 18	CSE	28/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	IT	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	AI&DS	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	MECH	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	EEE	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	ECE	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	CIVIL	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	CSE	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	IT	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	AI&DS	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	MECH	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	ECE	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	EEE	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	CIVIL	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	CSE	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	IT	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	AI&DS	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	MECH	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	EEE	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	ECE	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	CIVIL	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 17	CSE	27/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	IT	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	AI&DS	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	MECH	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	EEE	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	ECE	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	CIVIL	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	CSE	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	IT	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	AI&DS	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	EEE	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	MECH	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	ECE	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	CIVIL	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	CSE	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	IT	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	AI&DS	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	MECH	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	EEE	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	ECE	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	CIVIL	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 16	CSE	26/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+union in c language	IT	31/03/2026, 05:30:00	500 minutes	Active Now	
+Stop
+Remove
+
+union in c langauge	IT	31/03/2026, 05:30:00	500 minutes	Active Now	
+Stop
+Remove
+
+Test 15	IT	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	AI&DS	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	MECH	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	EEE	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	ECE	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	CIVIL	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	CSE	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 14	MECH	27/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 13	MECH	27/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 15	IT	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	AI&DS	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	MECH	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	EEE	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	ECE	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	CIVIL	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	CSE	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	IT	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	AI&DS	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	MECH	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	EEE	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	ECE	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	CIVIL	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 15	CSE	25/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 14	IT	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	AI&DS	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	MECH	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	EEE	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	ECE	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	CIVIL	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	CSE	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	IT	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	AI&DS	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	MECH	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	EEE	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	ECE	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	CIVIL	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	CSE	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	IT	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	AI&DS	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	MECH	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	EEE	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	ECE	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	CIVIL	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 14	CSE	24/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Pointers	IT	24/03/2026, 05:30:00	202 minutes	Active Now	
+Stop
+Remove
+
+Test 13	IT	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	AI&DS	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	MECH	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	EEE	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	ECE	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	CIVIL	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	CSE	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	IT	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	AI&DS	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	MECH	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	EEE	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	ECE	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	CIVIL	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	CSE	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	IT	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	AI&DS	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	MECH	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	EEE	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	ECE	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	CIVIL	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 13	CSE	23/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	IT	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	AI&DS	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	MECH	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	ECE	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	EEE	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	CIVIL	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	CSE	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	IT	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	AI&DS	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	MECH	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	EEE	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	ECE	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	CIVIL	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	CSE	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	IT	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	AI&DS	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	MECH	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	EEE	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	ECE	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	CIVIL	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	CSE	21/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 12	MECH	20/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 11	MECH	20/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 11	IT	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	AI&DS	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	MECH	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	EEE	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	ECE	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	CIVIL	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	CSE	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	IT	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	AI&DS	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	MECH	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	EEE	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	ECE	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	CIVIL	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	CSE	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	IT	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	AI&DS	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	MECH	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	EEE	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	ECE	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	CIVIL	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 11	CSE	20/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	IT	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	AI&DS	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	MECH	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	EEE	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	ECE	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	CIVIL	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	CSE	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	IT	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	AI&DS	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	MECH	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	EEE	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	ECE	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	CIVIL	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	CSE	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	IT	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	AI&DS	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	MECH	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	EEE	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	ECE	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	CIVIL	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 10	CSE	19/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	AI&DS	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	IT	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	MECH	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	EEE	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	ECE	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	CIVIL	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	CSE	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	IT	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	AI&DS	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	MECH	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	EEE	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	ECE	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	CIVIL	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	CSE	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	IT	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	AI&DS	18/03/2026, 05:30:00	11 minutes	Active Now	
+Stop
+Remove
+
+Test 9	MECH	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 9	EEE	18/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Web Design	ECE	18/03/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Pointers	IT	24/03/2026, 05:30:00	100 minutes	Active Now	
+Stop
+Remove
+
+ASSIGNMENT 3&4	CSE	18/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Assignment-3	AI&DS	17/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+ASSIGNMENT 3	AI&DS	17/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 8	IT	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	AI&DS	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	MECH	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	EEE	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	ECE	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	CIVIL	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	CSE	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	IT	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	AI&DS	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	MECH	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	EEE	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	ECE	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	CIVIL	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	CSE	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	IT	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	AI&DS	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	MECH	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	EEE	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	ECE	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	CIVIL	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 8	CSE	17/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+c++	CSE	17/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Test 7	IT	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	AI&DS	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	MECH	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	EEE	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	CIVIL	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	ECE	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	CSE	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	IT	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	AI&DS	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	MECH	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	EEE	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	ECE	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	CIVIL	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	CSE	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	IT	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	AI&DS	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	MECH	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	EEE	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	ECE	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	CIVIL	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 7	CSE	16/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+TEST3EEE	EEE	14/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+TEST3IT	IT	14/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+TEST3MECH	MECH	14/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+c++	CSE	17/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+TEST3CIVIL	CIVIL	14/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+TEST3CSE	CSE	14/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+TEST3AI&DS	AI&DS	14/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+TEST3ECE	ECE	14/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 6	IT	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	AI&DS	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	MECH	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	EEE	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	ECE	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	CIVIL	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	CSE	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	IT	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	AI&DS	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	MECH	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	EEE	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	ECE	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	CIVIL	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	CSE	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	IT	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	AI&DS	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	MECH	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	EEE	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	ECE	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	CIVIL	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 6	CSE	14/03/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 10	MECH	13/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 09	MECH	13/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 5	IT	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	AI&DS	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	MECH	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	EEE	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	ECE	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	CIVIL	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	CSE	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	IT	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	AI&DS	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	MECH	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	EEE	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	ECE	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	CIVIL	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	CSE	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	IT	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	AI&DS	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	MECH	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	EEE	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	ECE	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	CSE	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5	CIVIL	13/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+review of gate	EEE	12/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Electronic Devices	EEE	12/03/2026, 05:30:00	120 minutes	Completed	
+Start
+Remove
+
+Electronic Devices	EEE	12/03/2026, 05:30:00	120 minutes	Completed	
+Start
+Remove
+
+Test 4	IT	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	AI&DS	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	MECH	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	EEE	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	ECE	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	CIVIL	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	CSE	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	IT	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	AI&DS	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	MECH	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	EEE	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	ECE	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	CIVIL	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	CSE	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	IT	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	AI&DS	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	MECH	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	EEE	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	ECE	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	CIVIL	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 4	CSE	12/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	IT	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	AI&DS	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	MECH	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	EEE	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	ECE	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	CIVIL	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	CSE	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test6-III Year	ECE	11/03/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Test6-II year	ECE	11/03/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Test 3	IT	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	AI&DS	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	MECH	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	EEE	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	ECE	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	CIVIL	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	CSE	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	IT	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	AI&DS	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	MECH	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	EEE	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	ECE	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	CIVIL	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+Test 3	CSE	11/03/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+structure	IT	17/03/2026, 05:30:00	800 minutes	Active Now	
+Stop
+Remove
+
+structure	IT	17/03/2026, 05:30:00	800 minutes	Active Now	
+Stop
+Remove
+
+Test- Placement (III IT)	IT	10/03/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+Test - Placement (II IT)	IT	10/03/2026, 05:30:00	180 minutes	Active Now	
+Stop
+Remove
+
+Test - Placement	IT	10/03/2026, 05:30:00	120 minutes	Active Now	
+Stop
+Remove
+
+Placement Aptitude Day 2 III year	AI&DS	10/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Placement Aptitude Day 2 II year	AI&DS	10/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+CIVIL	CIVIL	10/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+MECHANICAL	MECH	10/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+CSE	CSE	10/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+IT	IT	10/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+AI&DS	AI&DS	10/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+ECE	ECE	10/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+EEE	EEE	10/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+placement	CSE	10/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+03	CSE	10/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+02	CSE	10/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Placement	CIVIL	10/03/2026, 05:30:00	20 minutes	Active Now	
+Stop
+Remove
+
+Placement	CIVIL	10/03/2026, 05:30:00	20 minutes	Active Now	
+Stop
+Remove
+
+Seating arrangement	EEE	10/03/2026, 05:30:00	35 minutes	Completed	
+Start
+Remove
+
+Blood relation	EEE	10/03/2026, 05:30:00	35 minutes	Completed	
+Start
+Remove
+
+TEST 5 - III YEAR IT	IT	10/03/2026, 05:30:00	800 minutes	Active Now	
+Stop
+Remove
+
+test 5 -II YEAR IT	IT	10/03/2026, 05:30:00	1000 minutes	Active Now	
+Stop
+Remove
+
+Test2	CSE	09/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test2	CSE	09/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test2	IT	09/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test2	AI&DS	09/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test2	MECH	09/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Placement Test -1 MECH-III	MECH	09/03/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test2	EEE	09/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Placement Test -1 AI&DS-III	AI&DS	09/03/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test2	ECE	09/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Placement Test -1 ECE-III	ECE	09/03/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Test2	CIVIL	09/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Placement Test -1 EEE-III	EEE	09/03/2026, 05:30:00	41 minutes	Completed	
+Start
+Remove
+
+Placement Test -1 IT-III	IT	09/03/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+Placement Test -1	S&H	09/03/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+test 1	CSE	11/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+REVIEW OF GATE	EEE	09/04/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+ASSIGNMENT 3&4	CSE	09/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Test1	IT	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	AI&DS	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	MECH	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	EEE	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	ECE	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	CIVIL	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	CSE	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	IT	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	AI&DS	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	MECH	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	EEE	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	ECE	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	CIVIL	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	CSE	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	IT	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	AI&DS	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	MECH	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	EEE	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	ECE	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	CIVIL	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+Test1	CSE	08/03/2026, 05:30:00	10 minutes	Completed	
+Start
+Remove
+
+quiz	ECE	07/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+review of gate	EEE	08/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+higher education preparation	CSE	08/03/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+assignment 3	CSE	08/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Test 08	MECH	06/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 07	MECH	06/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+TEST2ECE	ECE	07/03/2026, 05:30:00	20 minutes	Active Now	
+Stop
+Remove
+
+TEST2EEE	EEE	07/03/2026, 05:30:00	20 minutes	Active Now	
+Stop
+Remove
+
+TEST2AI&DS	AI&DS	07/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+TEST2MECH	MECH	07/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+TEST2IT	IT	07/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+TEST2CIVIL	CIVIL	07/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+TEST2CSE	CSE	07/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Sequential circuits	EEE	05/03/2026, 05:30:00	500 minutes	Active Now	
+Stop
+Remove
+
+Sequential circuits	EEE	05/03/2026, 05:30:00	500 minutes	Active Now	
+Stop
+Remove
+
+Placement 04.03.26	CSE	04/03/2026, 05:30:00	20 minutes	Active Now	
+Stop
+Remove
+
+Placement 02.03.2026	CSE	04/03/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Test5-III year	ECE	04/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test5-II year	ECE	04/03/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 4-II Year	AI&DS	03/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test No 4-III Year	AI&DS	03/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+TEST SAMPLE	CSE	03/03/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 5 (II IT)	IT	04/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 5 (III IT)	IT	04/03/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+C++ TEST	CSE	03/03/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+2.03.26	CSE	02/03/2026, 05:30:00	90 minutes	Completed	
+Start
+Remove
+
+2.03.26	CSE	04/03/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+INFLUENCE LINES FOR INDETERMINATE BEAMS & DETERMINATE BEAMS	CIVIL	01/03/2026, 05:30:00	20 minutes	Active Now	
+Stop
+Remove
+
+Design of Highway Elements	CIVIL	01/03/2026, 05:30:00	20 minutes	Active Now	
+Stop
+Remove
+
+TEST1ECE	ECE	28/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+Test 06	MECH	01/03/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+Test 05	MECH	27/02/2026, 05:30:00	25 minutes	Completed	
+Start
+Remove
+
+TEST1EEE	EEE	28/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+TEST1 IT	IT	28/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+TEST1 AD	AI&DS	28/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+TEST1 MECH	MECH	28/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+TEST1 CIVIL	CIVIL	28/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+TEST1 CSE	CSE	28/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+Digital Systems and Boolean Algebra	EEE	26/02/2026, 05:30:00	500 minutes	Active Now	
+Stop
+Remove
+
+Digital systems and Boolean Algebra	EEE	26/02/2026, 05:30:00	500 minutes	Active Now	
+Stop
+Remove
+
+Test4-III year	ECE	25/02/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test4-II year	ECE	25/02/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Retest (III IT)	IT	25/02/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Retest 4 (II IT)	IT	25/02/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Test 4 (II IT)	IT	24/02/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 4(III IT)	IT	24/02/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test No 3- III Year	AI&DS	24/02/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test No 3-II year	AI&DS	24/02/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+CSE-06	CSE	27/02/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+cse-04	CSE	27/02/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Mech-01	MECH	22/02/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+IT-01	IT	22/02/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+AD-01	AI&DS	22/02/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+CSE-(01)	CSE	22/02/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+civil-01	CIVIL	22/02/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+QUIZ(ECE-01)	ECE	22/02/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Test 004	MECH	Not Scheduled	20 minutes	Completed	
+Start
+Remove
+
+Test 003	MECH	Not Scheduled	20 minutes	Completed	
+Start
+Remove
+
+Assessment	CIVIL	20/02/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Assessment	CIVIL	20/02/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test 2	EEE	19/02/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Test 2	EEE	19/02/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Test No 2- II Year	AI&DS	17/02/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test No 2- III Year	AI&DS	17/02/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test3-III year	ECE	18/02/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test3-II year	ECE	18/02/2026, 05:30:00	20 minutes	Completed	
+Start
+Remove
+
+Test 3 (II IT)	IT	17/02/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 3 (III IT)	IT	17/02/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+PRACTICE	CSE	16/02/2026, 05:30:00	90 minutes	Completed	
+Start
+Remove
+
+QUIZ-EEE-01	EEE	09/04/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+Review of gate-EEE-01	EEE	22/02/2026, 05:30:00	90 minutes	Active Now	
+Stop
+Remove
+
+CSM first internal (Assignment)	CSE	16/02/2026, 05:30:00	90 minutes	Completed	
+Start
+Remove
+
+Test 2 (III IT)	IT	10/02/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+TEST 2	IT	10/02/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+CLOUD TEST	CSE	09/02/2026, 05:30:00	59 minutes	Completed	
+Start
+Remove
+
+Test2-III yr	ECE	11/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+TEST2-II yr	ECE	11/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+test1 EEE	EEE	07/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+test1 mech	MECH	07/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+test1 CSE	CSE	07/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+test1 CIVIL	CIVIL	07/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+test1	ECE	07/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+test1	AI&DS	07/02/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+assignment_1	CSE	07/02/2026, 05:30:00	90 minutes	Completed	
+Start
+Remove
+
+C TEST	CSE	07/02/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+C TEST	CSE	07/02/2026, 05:30:00	70 minutes	Completed	
+Start
+Remove
+
+Test 01	MECH	Not Scheduled	15 minutes	Completed	
+Start
+Remove
+
+Test 02	MECH	Not Scheduled	15 minutes	Completed	
+Start
+Remove
+
+Cloud Assignment 1 and 2	CSE	06/02/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+
+test1	IT	07/02/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+Test 1	EEE	05/02/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 1	EEE	05/02/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+Test 1	ECE	Not Scheduled	15 minutes	Completed	
+Start
+Remove
+
+Test 1	ECE	04/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+TEST NO 1	AI&DS	03/02/2026, 05:30:00	30 minutes	Completed	
+Start
+Remove
+
+C++ TEST	CSE	03/02/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+CLOUD COMPUTING	IT	03/02/2026, 05:30:00	10 minutes	Active Now	
+Stop
+Remove
+
+test-1	AI&DS	03/02/2026, 05:30:00	5 minutes	Completed	
+Start
+Remove
+
+ml lab	AI&DS	03/02/2026, 05:30:00	15 minutes	Active Now	
+Stop
+Remove
+
+Test No 1	AI&DS	03/02/2026, 05:30:00	15 minutes	Completed	
+Start
+Remove
+
+PYTHON TEST -1	IT	03/02/2026, 05:30:00	20 minutes	Active Now	
+Stop
+Remove
+
+C Programming Test	IT	03/02/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+C++ Basics	CSE	03/02/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+Python	CSE	02/02/2026, 05:30:00	30 minutes	Active Now	
+Stop
+Remove
+
+CSM	CSE	02/02/2026, 05:30:00	60 minutes	Active Now	
+Stop
+Remove
+
+C++	CSE	31/01/2026, 05:30:00	60 minutes	Completed	
+Start
+Remove
+Developed By Innovative Software Product Industry of NSCET
